@@ -28,7 +28,7 @@ Si quieres probar este proyecto localmente o integrarlo en tu propia web, sigue 
 3.  **Abre el archivo `index.html`** en tu navegador preferido.
 
 ## 📸 Vista Previa
-
+![Vista Previa](Spa.png)
 
 
 
