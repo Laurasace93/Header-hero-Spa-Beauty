@@ -1,3 +1,29 @@
-# Header-hero-Spa-Beauty 💆🏽‍♀️
+# 🌸 SPA & Beauty - Header Hero Section
 
-Código sobre un header-hero para una página web relacionada con un negocio de tipo SPA. Con HTML y CSS
+Este proyecto es una sección "Hero" moderna, elegante y totalmente responsiva, diseñada específicamente para centros de estética, spas o marcas de cuidado personal que buscan una primera impresión impactante.
+
+## ✨ Características
+
+* **Diseño Premium:** Estética minimalista con una paleta de colores suave y profesional.
+* **Código Limpio:** Estructura semántica en HTML5 y estilos modulares en CSS3.
+
+## 🛠️ Tecnologías utilizadas
+
+* **HTML5:** Estructura semántica.
+* **CSS3:** Flexbox/Grid para el layout y variables personalizadas.
+* **Google Fonts:** Tipografías seleccionadas para legibilidad y elegancia.
+
+## 🚀 Instalación y Uso
+
+Si quieres probar este proyecto localmente o integrarlo en tu propia web, sigue estos pasos:
+
+1.  **Clona el repositorio:**
+    ```bash
+    git clone [https://github.com/Laurasace93/Header-hero-Spa-Beauty.git](https://github.com/Laurasace93/Header-hero-Spa-Beauty.git)
+    ```
+2.  **Navega a la carpeta:**
+    ```bash
+    cd Header-hero-Spa-Beauty
+    ```
+3.  **Abre el archivo `index.html`** en tu navegador preferido.
+
